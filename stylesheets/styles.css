@@ -48,6 +48,7 @@ a small {
 ul li {
   list-style: none;
   padding-bottom: 1em;
+  display: inline-block;
 }
 
 .wrapper {
