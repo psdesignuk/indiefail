@@ -41,8 +41,13 @@ a {
 a small {
   font-size:11px;
   color:#777;
-  margin-top:-0.6em;
+  margin-top:1em;
   display:block;
+}
+
+ul li {
+  list-style: none;
+  padding-bottom: 1em;
 }
 
 .wrapper {
