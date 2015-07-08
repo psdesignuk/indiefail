@@ -5,7 +5,7 @@ Copy of content shown on Indie.fail before takedown
 
 > This is reposted after the original site (indie.fail) was miraculously removed or set to redirect to the ind.ie site. 
 
-On the 28th of November 2013 Aral Balkan announced ind.ie, a company that was going to build a privacy focussed phone ("Indiephone"), operating system ("indieOS") and cloud ("indieCloud"). indieCloud later succumbed to the idea of a peer-to-peer social network ("Heartbeat").<sup><a href="#fn1">1</a></sup> They crowdfunded more than $100.000<sup><a href="#fn2">2</a></sup>, just to then announce that their initial roadmap was too ambitious and they were only going to build the social network ("Heartbeat") and only release it for OSX and iOS.<sup><a href="#fn3">3</a></sup>
+On the 28th of November 2013 Aral Balkan announced ind.ie, a company that was going to build a privacy focussed phone (â€œIndiephoneâ€), operating system (â€œindieOSâ€) and cloud ("indieCloud"). indieCloud later succumbed to the idea of a peer-to-peer social network (â€œHeartbeatâ€).<sup><a href="#fn1">1</a></sup> They crowdfunded more than $100.000<sup><a href="#fn2">2</a></sup>, just to then announce that their initial roadmap was too ambitious and they were only going to build the social network (â€œHeartbeatâ€) and only release it for OSX and iOS.<sup><a href="#fn3">3</a></sup>
 
 While we agree with the fundamental vision behind ind.ie, we do not agree with Aral Balkan's ideas and execution. 
 
@@ -17,7 +17,7 @@ The same problem applies to making an Operating System. While you could of cours
 
 The biggest problem, as it is the only product remaining, is the ill-conceived concept behind Heartbeat.
 
-A secure, privacy focussed, "own-your-data" peer-to-peer network is an <span class="more-info" title="A term which contradicts itself">oxymoron</span>. All your friends would have to have all your data, and could keep it even after you "un-friend" them. This is worse than storing all the information in a centralized place, because once the information is out there, you cannot delete it. It's out there, and everybody has it. Even if it's encrypted, there's no guarantee it can't be unencrypted.
+A secure, privacy focussed, â€œown-your-dataâ€ peer-to-peer network is an <span class="more-info" title="A term which contradicts itself">oxymoron</span>. All your friends would have to have all your data, and could keep it even after you â€œun-friendâ€ them. This is worse than storing all the information in a centralized place, because once the information is out there, you cannot delete it. It's out there, and everybody has it. Even if it's encrypted, there's no guarantee it can't be unencrypted.
 
 Aral Balkan has deceived thousands of people with his great words and big ideas, but has not and will never be able to deliver on his promises. While his vision is a noble and very important one, his ideas are flawed. 
 
